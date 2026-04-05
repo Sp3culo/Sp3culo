@@ -25,11 +25,11 @@
   <li>📍 Based in <strong>Toulouse, France</strong> — open to work &amp; collaboration</li>
   <li>💬 Ask me about
     <br/>
-    <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-    <img src="https://img.shields.io/badge/TCP%2FIP-30363d?style=flat-square&logo=googlechrome&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Game%20Dev-E4405F?style=flat-square&logo=unity&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Web%20Dev-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Game%20Development-E4405F?style=flat-square&logo=unity&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Networking%20%26%20TCP%2FIP-30363d?style=flat-square&logo=wireshark&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Low--Level%20Programming-00599C?style=flat-square&logo=assemblyscript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Web%20Development-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Clean%20Architecture-8A2BE2?style=flat-square&logo=blueprint&logoColor=white"/>
   </li>
 </ul>
 
