@@ -51,17 +51,23 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-**Game & Systems**
+**Development tools & IDE**
 
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+** Operating System **
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
 
-**Design & Tools**
+**Tools**
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=black)
 
 </div>
 
@@ -75,17 +81,7 @@
   <img src="https://img.shields.io/badge/🎮_Higher:_The_Last_Dream-Available_on_Steam-1b2838?style=for-the-badge&logo=steam&logoColor=white"/>
 </a>
 
-> Indie game built entirely solo — game design, code, art direction, release · **Unity · C#**
-
-</div>
-
----
-
-## 🔥 Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Sp3culo&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00C896&fire=00C896&currStreakLabel=00C896&sideLabels=8b949e&dates=8b949e"/>
+<img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3722970/5b553a476b1aa44a4cba628e21ce08788a06a5b2/header_french.jpg?t=1770089660">
 
 </div>
 
