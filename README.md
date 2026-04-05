@@ -17,14 +17,21 @@
 ---
 
 ## ⚡ About me
-
-<nav>
-<li> 🎮 Solo developer of **Higher: The Last Dream** — indie game published on Steam </li>
-<li> 💼 3 years @ **Sopra Steria Group** </li>
-<li> 💻 Passionate about low-level programming, networking & clean architecture </li>
-<li> 📍 Based in **Toulouse, France** — open to work & collaboration </li>
-<li> 💬 Ask me about `C#` `C++` `TCP/IP` `game dev` `web dev` </li>
-</nav>
+ 
+<ul>
+  <li>🎮 Solo developer of <strong>Higher: The Last Dream</strong> — indie game published on Steam</li>
+  <li>💼 3 years @ <strong>Sopra Steria Group</strong></li>
+  <li>💻 Passionate about low-level programming, networking &amp; clean architecture</li>
+  <li>📍 Based in <strong>Toulouse, France</strong> — open to work &amp; collaboration</li>
+  <li>💬 Ask me about
+    <br/>
+    <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TCP%2FIP-30363d?style=flat-square&logo=googlechrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Game%20Dev-E4405F?style=flat-square&logo=unity&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Web%20Dev-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  </li>
+</ul>
 
 ---
 
