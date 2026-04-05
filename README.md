@@ -1,31 +1,33 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Sp3culo&fontSize=75&fontColor=FFFFFF&fontAlign=50&fontAlignY=42&animation=fadeIn&desc=Polyvalent%20Full%20Stack%20Developer&descSize=15&descAlign=50&descAlignY=65&theme=dark&color=0:0d1117,50:0f2a1a,100:0d1117" />
-
-<!-- TYPING SVG -->
-<a href="https://github.com/Sp3culo">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00C896&center=true&vCenter=true&width=640&lines=Hey+there%2C+I'm+Sp3culo+%F0%9F%91%8B;Fullstack+%7C+Systems+%7C+Game+Dev;Solo+dev+of+Higher%3A+The+Last+Dream+%F0%9F%8E%AE;Based+in+Toulouse%2C+France+%F0%9F%87%AB%F0%9F%87%B7;Open+to+work+%26+collaboration+%E2%9C%85" alt="Typing SVG" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Sp3culo&fontSize=80&fontColor=FFFFFF&fontAlign=50&fontAlignY=42&animation=fadeIn&desc=Polyvalent%20Full%20Stack%20Developer&descSize=16&descAlign=50&descAlignY=65&color=0:0d1117,50:0f2a1a,100:0d1117" />
 
 <br/>
 
-![Open to work](https://img.shields.io/badge/%E2%80%A2_Open_to_work_%26_collaboration-00C896?style=flat-square&labelColor=0d1117&color=00c896)
-&nbsp;
-![Location](https://img.shields.io/badge/Toulouse%2C_France-30363d?style=flat-square&logo=googlemaps&logoColor=8b949e&labelColor=161b22)
+<!-- TYPING SVG — texte court pour éviter la coupure -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=1000&color=00C896&center=true&vCenter=true&width=500&height=40&lines=Hey+there%2C+I'm+Sp3culo+%F0%9F%91%8B;Fullstack+%7C+Systems+%7C+Game+Dev+%F0%9F%8E%AE;Toulouse%2C+France+%F0%9F%87%AB%F0%9F%87%B7;Open+to+work+%26+collab+%E2%9C%85" alt="Typing SVG" />
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/clementarn/" target="_blank">
+<!-- STATUT -->
+![](https://img.shields.io/badge/%E2%97%8F%20Open%20to%20work-00C896?style=flat-square&labelColor=161b22)
+&nbsp;
+![](https://img.shields.io/badge/%F0%9F%93%8D%20Toulouse%2C%20France-161b22?style=flat-square)
+
+<br/><br/>
+
+<!-- SOCIALS -->
+<a href="https://www.linkedin.com/in/clementarn/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>&nbsp;
-<a href="https://www.instagram.com/sp3culo_/" target="_blank">
+<a href="https://www.instagram.com/sp3culo_/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>&nbsp;
-<a href="https://bsky.app/profile/speculo.bsky.social" target="_blank">
+<a href="https://bsky.app/profile/speculo.bsky.social">
   <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white"/>
 </a>&nbsp;
-<a href="https://discord.gg/3qDbjFXFe9" target="_blank">
+<a href="https://discord.gg/3qDbjFXFe9">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
@@ -101,14 +103,20 @@ const sp3culo = {
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Sp3culo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00c896&icon_color=00c896&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sp3culo&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00c896&text_color=c9d1d9&langs_count=6"/>
+<!-- Stats côte à côte avec un seul service fiable -->
+<img src="https://github-readme-stats.vercel.app/api?username=Sp3culo&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00c896&icon_color=00c896&text_color=c9d1d9" height="170"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sp3culo&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00c896&text_color=c9d1d9" height="170"/>
 
 </div>
 
+---
+
+## 🔥 Streak
+
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sp3culo&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00C896&fire=00C896&currStreakLabel=00C896&sideLabels=8b949e&dates=8b949e)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=Sp3culo&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00C896&fire=00C896&currStreakLabel=00C896&sideLabels=8b949e&dates=8b949e&stroke=00c89622"/>
 
 </div>
 
@@ -118,7 +126,7 @@ const sp3culo = {
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sp3culo&theme=github-compact&bg_color=0d1117&color=00c896&line=00c896&point=ffffff&area=true&area_color=00c896&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sp3culo&bg_color=0d1117&color=00c896&line=00c896&point=ffffff&area=true&area_color=00c89633&hide_border=true&theme=github-compact"/>
 
 </div>
 
@@ -128,6 +136,6 @@ const sp3culo = {
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0d1117,50:0f2a1a,100:0d1117"/>
 
-*crafted with love & caffeine — Toulouse, France 🇫🇷*
+*crafted with love & caffeine · Toulouse, France 🇫🇷*
 
 </div>
