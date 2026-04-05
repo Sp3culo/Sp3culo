@@ -19,9 +19,9 @@
 ## ⚡ About me
  
 <ul>
-  <li>🎮 Solo developer of <strong>Higher: The Last Dream</strong> — indie game published on Steam</li>
-  <li>💼 3 years @ <strong>Sopra Steria Group</strong></li>
-  <li>💻 Passionate about low-level programming, networking &amp; clean architecture</li>
+  <li>🤝 Enjoys working in teams and collaborative environments</li>
+  <li>💼 3 years at <strong>Sopra Steria Group</strong> in Aeronautics &amp; Defense</li>
+  <li>💻 Love to work with Object-Oriented Languages</li>
   <li>📍 Based in <strong>Toulouse, France</strong> — open to work &amp; collaboration</li>
   <li>💬 Ask me about
     <br/>
@@ -29,7 +29,6 @@
     <img src="https://img.shields.io/badge/Networking%20%26%20TCP%2FIP-30363d?style=flat-square&logo=wireshark&logoColor=white"/>
     <img src="https://img.shields.io/badge/Low--Level%20Programming-00599C?style=flat-square&logo=assemblyscript&logoColor=white"/>
     <img src="https://img.shields.io/badge/Web%20Development-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Clean%20Architecture-8A2BE2?style=flat-square&logo=blueprint&logoColor=white"/>
   </li>
 </ul>
 
