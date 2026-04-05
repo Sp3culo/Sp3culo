@@ -1,55 +1,55 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Sp3culo&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=Polyvalent%20Full%20Stack%20Developer&descSize=16&descAlign=50&descAlignY=65&theme=dark&color=0:0d1117,50:1a2332,100:0d1117" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Sp3culo&fontSize=75&fontColor=FFFFFF&fontAlign=50&fontAlignY=42&animation=fadeIn&desc=Polyvalent%20Full%20Stack%20Developer&descSize=15&descAlign=50&descAlignY=65&theme=dark&color=0:0d1117,50:0f2a1a,100:0d1117" />
 
 <!-- TYPING SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00C896&center=true&vCenter=true&multiline=false&width=600&lines=Hey+there%2C+I'm+Sp3culo+%F0%9F%91%8B;Fullstack+Dev+%7C+Game+Dev+%7C+Low-level+nerd;Solo+dev+of+Higher%3A+The+Last+Dream+%F0%9F%8E%AE;Based+in+Toulouse%2C+France+%F0%9F%87%AB%F0%9F%87%B7;Open+to+work+%26+collabs+%E2%9C%85" alt="Typing SVG" />
+<a href="https://github.com/Sp3culo">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00C896&center=true&vCenter=true&width=640&lines=Hey+there%2C+I'm+Sp3culo+%F0%9F%91%8B;Fullstack+%7C+Systems+%7C+Game+Dev;Solo+dev+of+Higher%3A+The+Last+Dream+%F0%9F%8E%AE;Based+in+Toulouse%2C+France+%F0%9F%87%AB%F0%9F%87%B7;Open+to+work+%26+collaboration+%E2%9C%85" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<!-- SOCIAL BADGES -->
-<a href="https://www.linkedin.com/in/clementarn/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://www.instagram.com/sp3culo_/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://bsky.app/profile/speculo.bsky.social" target="_blank">
-  <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky"/>
-</a>
-<a href="https://discord.gg/3qDbjFXFe9" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</a>
+![Open to work](https://img.shields.io/badge/%E2%80%A2_Open_to_work_%26_collaboration-00C896?style=flat-square&labelColor=0d1117&color=00c896)
+&nbsp;
+![Location](https://img.shields.io/badge/Toulouse%2C_France-30363d?style=flat-square&logo=googlemaps&logoColor=8b949e&labelColor=161b22)
 
 <br/><br/>
 
-<!-- STATUS BADGE -->
-![Status](https://img.shields.io/badge/Status-Open%20to%20work%20%26%20collab-00C896?style=flat-square&logo=statuspage&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Toulouse%2C%20France-30363d?style=flat-square&logo=googlemaps&logoColor=white)
+<a href="https://www.linkedin.com/in/clementarn/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>&nbsp;
+<a href="https://www.instagram.com/sp3culo_/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>&nbsp;
+<a href="https://bsky.app/profile/speculo.bsky.social" target="_blank">
+  <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white"/>
+</a>&nbsp;
+<a href="https://discord.gg/3qDbjFXFe9" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## ⚡ About Me
+## ⚡ About
 
 ```ts
 const sp3culo = {
-  name:     "Sp3culo",
-  location: "Toulouse, France 🇫🇷",
-  role:     "Polyvalent Fullstack Developer",
-  passion:  ["low-level programming", "game dev", "clean architecture", "networking"],
-  game:     "Higher: The Last Dream — Solo dev, published on Steam 🎮",
-  xp:       "3 years @ Sopra Steria Group",
-  openTo:   "Work & collaboration",
-  askMeAbout: ["C#", "C++", "TCP/IP", "game dev", "web dev"],
+  name     : "Sp3culo",
+  location : "Toulouse, France 🇫🇷",
+  passion  : ["low-level programming", "game dev", "clean architecture", "networking"],
+  game     : "Higher: The Last Dream — solo dev, published on Steam 🎮",
+  xp       : "3 ans @ Sopra Steria Group",
+  openTo   : "work & collaboration",
+  askMe    : ["C#", "C++", "TCP/IP", "game dev", "web dev"],
 };
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack
 
 <div align="center">
 
@@ -86,10 +86,12 @@ const sp3culo = {
 
 <div align="center">
 
-[![Higher: The Last Dream](https://img.shields.io/badge/🎮_Higher:_The_Last_Dream-Available_on_Steam-1b2838?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com)
+<a href="https://store.steampowered.com">
+  <img src="https://img.shields.io/badge/🎮_Higher:_The_Last_Dream-Available_on_Steam-1b2838?style=for-the-badge&logo=steam&logoColor=white"/>
+</a>
 
-> Solo-developed indie game — built from scratch with Unity & C#.
-> From game design to code to release — 100% independent.
+> Indie game built entirely solo — game design, code, art direction, release.
+> **Unity · C# · Published on Steam**
 
 </div>
 
@@ -99,33 +101,32 @@ const sp3culo = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sp3culo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00c896&icon_color=00c896&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sp3culo&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00c896&text_color=c9d1d9"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Sp3culo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00c896&icon_color=00c896&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sp3culo&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00c896&text_color=c9d1d9&langs_count=6"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sp3culo&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00C896&fire=00C896&currStreakLabel=00C896)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sp3culo&theme=github-compact&bg_color=0d1117&color=00c896&line=00c896&point=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sp3culo&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00C896&fire=00C896&currStreakLabel=00C896&sideLabels=8b949e&dates=8b949e)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
+## 📈 Activity
+
 <div align="center">
 
-<!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0d1117,50:1a2332,100:0d1117&fontColor=FFFFFF" />
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sp3culo&theme=github-compact&bg_color=0d1117&color=00c896&line=00c896&point=ffffff&area=true&area_color=00c896&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0d1117,50:0f2a1a,100:0d1117"/>
 
 *crafted with love & caffeine — Toulouse, France 🇫🇷*
 
