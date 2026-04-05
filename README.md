@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Sp3culo&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=Polyvalent%20Full%20Stack%20Developer&descSize=16&descAlign=50&descAlignY=63&color=0:0d1117,50:0f2a1a,100:0d1117" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Sp3culo&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&animation=fadeIn&desc=Polyvalent%20Full%20Stack%20Developer&descSize=16&descAlign=50&descAlignY=58&color=0:0d1117,50:0f2a1a,100:0d1117" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=1000&color=00C896&center=true&vCenter=true&width=500&height=36&lines=Hey+there%2C+I'm+Sp3culo+%F0%9F%91%8B;Fullstack+%7C+Systems+%7C+Game+Dev+%F0%9F%8E%AE;Toulouse%2C+France+%F0%9F%87%AB%F0%9F%87%B7;Open+to+work+%26+collab+%E2%9C%85" alt="Typing SVG" />
 
