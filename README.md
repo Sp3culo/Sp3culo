@@ -26,7 +26,6 @@
 ###
 
 <br clear="both">
-
 <p align="left">I'm a passionate Fullstack Developer who loves building things from the ground up whether it's a web app, a TCP server, or an indie video game shipped on Steam.</p>
 
 ###
