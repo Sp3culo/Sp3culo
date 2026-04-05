@@ -35,54 +35,46 @@
 ---
 
 ## 🛠️ Stack
-
+ 
 <div align="center">
-
+ 
 **Languages**
-
+ 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
+ 
 **Web**
-
+ 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
+ 
 **Development tools & IDE**
-
+ 
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-** Operating System **
-
+![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Code::Blocks](https://img.shields.io/badge/Code%3A%3ABlocks-000000?style=for-the-badge&logo=codeblocks&logoColor=white)
+ 
+**Operating System**
+ 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
-
-**Tools**
-
+ 
+**Project Tools**
+ 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=black)
-
-</div>
-
----
-
-## 🎮 Featured Project
-
-<div align="center">
-
-<a href="https://store.steampowered.com">
-  <img src="https://img.shields.io/badge/🎮_Higher:_The_Last_Dream-Available_on_Steam-1b2838?style=for-the-badge&logo=steam&logoColor=white"/>
-</a>
-
-<img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3722970/5b553a476b1aa44a4cba628e21ce08788a06a5b2/header_french.jpg?t=1770089660">
-
+ 
 </div>
 
 ---
@@ -101,6 +93,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0d1117,50:0f2a1a,100:0d1117"/>
 
-*crafted with love & caffeine · Toulouse, France 🇫🇷*
+*Sp3culo · Clément ARNAUD · Toulouse, France 🇫🇷*
 
 </div>
